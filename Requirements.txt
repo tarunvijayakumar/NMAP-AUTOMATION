@@ -1,0 +1,11 @@
+# Required for running Nmap scans from Python
+python-nmap==0.7.1
+
+# For reading Excel files and handling tabular IP data
+pandas==2.2.2
+
+# Required by pandas to read/write .xlsx Excel files
+openpyxl==3.1.2
+
+# tkinter is built into Python (no need to install separately)
+# threading, platform, os, re, datetime are standard Python libraries
