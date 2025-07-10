@@ -1,10 +1,10 @@
 # NMAP-AUTOMATION
 
 
-                                                                                    Excel-based OS Detection Scanner
-                                                                                   ----------------------------------
-                                                                         A GUI-based Python tool for scanning IPs from Excel
-                                                                          and detecting their operating systems using Nmap.
+Excel-based OS Detection Scanner
+----------------------------------
+A GUI-based Python tool for scanning IPs from Excel
+and detecting their operating systems using Nmap.
 
 FEATURES
 -----------
